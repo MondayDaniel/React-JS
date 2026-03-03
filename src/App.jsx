@@ -26,8 +26,7 @@ function App() {
     {/* Header section */}
      <a name="Home"></a>
     <header className="relative h-screen flex items-center justify-center">
-        <div className="absolute inset-0 bg-cover bg-center h-screen bg-blue-500"
-         /*  style="Background-image: url('https://img.freepik.com/premium-photo/composition-featuring-collection-high-tech-gadgets-generative-ai_964405-138.jpg');" */ >
+        <div className="absolute inset-0 bg-cover bg-center h-screen bg-blue-500">
             </div>
             <div className="relative z-10 bg text-center px-4 animate-fade-in">
                 <h2 className="text-5xl sm:text-6xl lg:text-7xl font-bold text-[#fefbf5] mb-6">
